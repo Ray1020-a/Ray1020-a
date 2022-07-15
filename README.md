@@ -1,5 +1,5 @@
 <h1 align="center">Ray叡</h1>
-<br>(https://profile-counter.glitch.me/Ray1020-a/count.svg)
+<br>![Visitor Count](https://profile-counter.glitch.me/Ray1020-a/count.svg)
 <p align="center">
     <a href="https://www.youtube.com/channel/UC2Oj8eNpUuISRBFLqACG3Ew">
         <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC2Oj8eNpUuISRBFLqACG3Ew&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
