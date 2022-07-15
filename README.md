@@ -1,9 +1,9 @@
 <h1 align="center">Ray叡</h1>
 <p align="center">
-    <img src="https://profile-counter.glitch.me/Ray1020-a/count.svg">
     <a href="https://www.youtube.com/channel/UC2Oj8eNpUuISRBFLqACG3Ew">
         <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC2Oj8eNpUuISRBFLqACG3Ew&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
     </a>
+    <img src="https://profile-counter.glitch.me/Ray1020-a/count.svg">
     <a href="https://www.youtube.com/channel/UC2Oj8eNpUuISRBFLqACG3Ew">
         <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC2Oj8eNpUuISRBFLqACG3Ew&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
     </a><br/><br/>
