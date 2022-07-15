@@ -1,4 +1,5 @@
 <h1 align="center">Ray叡</h1>
+<p align="center">
 <br><center><img src="https://profile-counter.glitch.me/Ray1020-a/count.svg"></center>
 <p align="center">
     <a href="https://www.youtube.com/channel/UC2Oj8eNpUuISRBFLqACG3Ew">
