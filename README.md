@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://profile-counter.glitch.me/Ray1020-a/count.svg"><br/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=Ray1020-a&show_icons=true&theme=radical" /><br />
-    [![Discord](https://lanyard.cnrad.dev/api/743991161189826592)](https://discord.com/users/743991161189826592)</br>
+    [![Discord Presence](https://lanyard.cnrad.dev/api/743991161189826592)](https://discord.com/users/743991161189826592)<br/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray1020-a&layout=compact&theme=radical&locale=cn" /><br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray1020-a&langs_count=8&theme=radical&locale=cn" /><br />
