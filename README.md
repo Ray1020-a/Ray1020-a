@@ -1,7 +1,6 @@
-<h1 align="center">Ray叡</h1>
+<h1 align="center">LaiRay 叡叡</h1>
 <p align="center">
-    <img src="https://profile-counter.glitch.me/Ray1020-a/count.svg"><br/><br/>
-    <br/>
+    <img src="https://profile-counter.glitch.me/Ray1020-a/count.svg"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray1020-a&layout=compact&theme=radical&locale=cn" /><br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray1020-a&langs_count=8&theme=radical&locale=cn" /><br />
 </p>
