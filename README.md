@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray1020-a&layout=compact&theme=radical" />
 </p>
 
-- 🌐 My website **[https://ray-tw.com/](https://ray-tw.com/)**
+- 🌐 My website **[https://ray-tw.com](https://ray-tw.com/)**
 
 - 📧 My Email **lai.ray.tw@gmail.com**
 
