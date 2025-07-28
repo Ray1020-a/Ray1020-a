@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm LaiRay</h1>
-<p align="center">A student at Taipei Digital Experimental High School</p>
+<p align="center">A student at Taipei Digital Experimental High School<br><br>Network Operator of AS214841</p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray1020-a&layout=compact&theme=radical" />
 </p>
@@ -31,3 +31,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
+#### Skill:
+**Linux、Networking、Proxmox VE、VyOS、BGP、WireGuard**
